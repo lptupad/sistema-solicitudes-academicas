@@ -2,6 +2,10 @@
 
 Proyecto en C#/.NET 10 usado para el Trabajo Práctico Integrador de Metodología de Sistemas II.
 
+## Repositorio
+
+Repositorio GitHub: https://github.com/lptupad/sistema-solicitudes-academicas
+
 ## Estructura
 
 - `src/Solicitudes.Core`: dominio, casos de uso, puertos y adaptador en memoria.

@@ -19,7 +19,7 @@ Tipo de revisión: auto-revisión técnica del trabajo práctico.
 | 9 | La ejecución de pruebas es repetible desde una instrucción documentada. | Cumple | `dotnet test .\tests\Solicitudes.Core.Tests\Solicitudes.Core.Tests.csproj`. |
 | 10 | La persistencia satisface el alcance declarado y sus límites están documentados. | Cumple con limitación conocida | Adaptador en memoria; los datos no sobreviven al proceso y no se garantiza acceso concurrente. |
 | 11 | La estructura contiene instrucciones de instalación/uso y documentación de revisión. | Cumple | README del proyecto y este checklist. |
-| 12 | El repositorio remoto, los tags de entrega y las evidencias visuales están publicados. | Pendiente | Repositorio local configurado con remoto `origin`; aún faltan publicar los commits y tags y agregar capturas reales. |
+| 12 | El repositorio remoto, los tags de entrega y las evidencias visuales están publicados. | Pendiente | Remoto configurado: https://github.com/lptupad/sistema-solicitudes-academicas. Aún faltan publicar los commits y tags, verificar el acceso remoto y agregar capturas reales. |
 
 ## Observaciones y acciones
 

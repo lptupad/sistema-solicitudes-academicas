@@ -4,13 +4,13 @@
 
 - [`pruebas-unitarias.txt`](pruebas-unitarias.txt): salida de consola guardada al ejecutar la suite xUnit con `dotnet test`. Incluye los casos descubiertos y el resumen del resultado.
 
-## Evidencia visual pendiente
+## Evidencia visual pendiente de publicación
 
-No se incluyen capturas simuladas. Después de crear/publicar el repositorio, agregar aquí capturas reales de:
+No se incluyen capturas simuladas. Después de publicar la rama `main` y los seis tags, comprobar el contenido en GitHub y guardar capturas reales en esta carpeta:
 
-1. Estructura del repositorio con `src`, `tests`, `codigo_antes` y `docs`.
-2. Historial de commits y tags obligatorios solicitados por la consigna.
-3. Ejecución de las pruebas, si se requiere evidencia visual además del log de texto.
-4. Repositorio remoto accesible, junto con su URL en el informe y el README.
+1. `estructura-repositorio.png`: raíz del repositorio mostrando `src`, `tests`, `codigo_antes` y `docs`.
+2. `tags-y-commits.png`: historial de commits y los seis tags requeridos.
+3. `repositorio-publicado.png`: repositorio GitHub accesible y su URL.
+4. `tests-pasando.png`: ejecución de las pruebas, solo si la cátedra pide evidencia visual además del log de texto incluido.
 
-Nombrar los archivos de forma descriptiva, por ejemplo `estructura-repositorio.png`, `tags-y-commits.png` y `tests-pasando.png`. No incluir datos personales reales ni credenciales en las capturas.
+No incluir datos personales ni credenciales en las capturas. Una vez guardadas, verificar que los nombres de archivo coincidan con esta lista.
