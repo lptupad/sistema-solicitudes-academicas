@@ -1,0 +1,23 @@
+  Solicitudes.Core -> C:\Users\Lucas\Documents\UTN\Asignaturas\Metodologia de Sistemas II\TP Integrador MS2\SistemaSolicitudes\src\Solicitudes.Core\bin\Debug\net10.0\Solicitudes.Core.dll
+  Solicitudes.Core.Tests -> C:\Users\Lucas\Documents\UTN\Asignaturas\Metodologia de Sistemas II\TP Integrador MS2\SistemaSolicitudes\tests\Solicitudes.Core.Tests\bin\Debug\net10.0\Solicitudes.Core.Tests.dll
+Serie de pruebas para C:\Users\Lucas\Documents\UTN\Asignaturas\Metodologia de Sistemas II\TP Integrador MS2\SistemaSolicitudes\tests\Solicitudes.Core.Tests\bin\Debug\net10.0\Solicitudes.Core.Tests.dll (.NETCoreApp,Version=v10.0)
+1 archivos de prueba en total coincidieron con el patrón especificado.
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v3.0.1+f8675c32e5 (64-bit .NET 10.0.13)
+[xUnit.net 00:00:00.14]   Discovering: Solicitudes.Core.Tests
+[xUnit.net 00:00:00.23]   Discovered:  Solicitudes.Core.Tests
+[xUnit.net 00:00:00.27]   Starting:    Solicitudes.Core.Tests
+[xUnit.net 00:00:00.38]   Finished:    Solicitudes.Core.Tests
+  Correctas Solicitudes.Core.Tests.SolicitudTests.CambiarEstado_RechazaSaltoDePendienteAResuelta [15 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.CambiarEstado_RechazaSolicitudInexistente [< 1 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.Registrar_CreaSolicitudPendienteConDatosNormalizados [4 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.Registrar_RechazaAsuntoVacio(asunto: "") [< 1 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.Registrar_RechazaAsuntoVacio(asunto: "  ") [< 1 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.GenerarReporte_CuentaSolicitudesPorEstado [13 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.AsignarResponsable_AsociaAlResponsableIndicado [3 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.Buscar_AplicaFiltrosDeTextoYEstado [6 ms]
+  Correctas Solicitudes.Core.Tests.SolicitudTests.CambiarEstado_PermiteTransicionPendienteAEnProceso [< 1 ms]
+
+La serie de pruebas se ejecutó correctamente.
+Pruebas totales: 9
+     Correcto: 9
+ Tiempo total: 1,2462 Segundos
